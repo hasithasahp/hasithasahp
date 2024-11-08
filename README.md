@@ -1,3 +1,5 @@
+
+<h1 align="center" style="color: #0D6281;">Hasitha Samarasinghe</h1>
 ## Hi there 👋
 
 <!--
