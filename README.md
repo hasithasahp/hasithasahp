@@ -1,7 +1,6 @@
 
 <h1 align="center" style="color: #0D6281;">Hasitha Samarasinghe</h1>
 <h5 align="center">Multi-Disciplinary Engineering Expert</h5>
-## Hi there 👋
 
 <!--
 **hasithasahp/hasithasahp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
